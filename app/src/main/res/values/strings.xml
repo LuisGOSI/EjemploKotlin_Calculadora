@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo1 Diseño de apps</string>
+    <string name="tvNum1">Escribe un numero</string>
+    <string name="tvNum2">Escribe otro numero</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+</resources>
